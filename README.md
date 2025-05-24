@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer illustration" width="400px" align="right" />
 
-## 👋 Hi there!
+*👋 Hi there!*
 
 I'm **Otávio Perez Luque**, a passionate **Backend Developer** and **DevOps Engineer**.
 
