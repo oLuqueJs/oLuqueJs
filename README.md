@@ -8,7 +8,7 @@ Currently, I'm focusing on improving my skills and learning new technologies. I'
 
 ---
 
-### 🚀 Stack
+### 🚀 Stacks
 
 #### 💻 Languages & Frameworks  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
