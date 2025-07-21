@@ -24,9 +24,9 @@ Currently, I'm focusing on improving my skills and learning new technologies. I'
 
 #### 🛠 Tools & Platforms  
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)](https://insomnia.rest/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
 ---
 
