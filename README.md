@@ -22,4 +22,4 @@ Currently, I'm focusing on improving my skills and learning new technologies. I'
 ---
 
 ### 📚 Currently Learning  
-[![My Skills](https://skillicons.dev/icons?i=spring,angular,vite,mysql,jenkins,gradle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,vite,gradle)](https://skillicons.dev)
