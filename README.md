@@ -14,12 +14,12 @@ Currently, I'm focusing on improving my skills and learning new technologies. I'
 [![My Skills](https://skillicons.dev/icons?i=js,ts,ruby,java,nodejs,nestjs)](https://skillicons.dev)
 
 #### 🛢 Databases  
-[![My Skills](https://skillicons.dev/icons?i=postgresql,prisma,typeorm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prisma,postgresql,typeorm)](https://skillicons.dev)
 
 #### 🛠 Tools & Platforms  
-[![My Skills](https://skillicons.dev/icons?i=apple,linux,docker,nginx,aws,pnpm,idea,gradle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,apple,linux,aws,pnpm,idea,gradle)](https://skillicons.dev)
 
 ---
 
 ### 📚 Currently Learning  
-[![My Skills](https://skillicons.dev/icons?i=spring,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,spring)](https://skillicons.dev)
