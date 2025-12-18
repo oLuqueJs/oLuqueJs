@@ -4,7 +4,7 @@
 
 I'm **Otávio Perez Luque**, a passionate **Backend Developer** and **DevOps Engineer**.
 
-Currently, I'm focusing on improving my skills and learning new technologies. I'm diving into the frontend world and exploring system-level tooling.
+Currently, I'm focusing on improving my skills and learning new technologies and exploring system-level tooling.
 
 ---
 
@@ -22,4 +22,4 @@ Currently, I'm focusing on improving my skills and learning new technologies. I'
 ---
 
 ### 📚 Currently Learning  
-[![My Skills](https://skillicons.dev/icons?i=spring,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,rabbitmq)](https://skillicons.dev)
