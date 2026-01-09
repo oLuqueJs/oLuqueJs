@@ -17,7 +17,7 @@ Currently, I'm focusing on improving my skills and learning new technologies and
 [![My Skills](https://skillicons.dev/icons?i=prisma,postgresql,typeorm)](https://skillicons.dev)
 
 #### 🛠 Tools & Platforms  
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,apple,linux,aws,jenkins,pnpm,gradle,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,apple,linux,aws,cloudflare,jenkins,pnpm,gradle,idea)](https://skillicons.dev)
 
 ---
 
